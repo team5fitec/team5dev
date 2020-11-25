@@ -1,0 +1,3 @@
+#ignorer les fichier de build terraform
+/.terraform
+terraform*
